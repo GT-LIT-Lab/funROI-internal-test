@@ -1,0 +1,13 @@
+[tool.black]
+line-length = 79
+
+[tool.coverage.run]
+source = ["../funROI/funROI"]
+branch = true
+
+[tool.coverage.report]
+omit = ["*.ipynb_checkpoints/*"]
+
+[tool.coverage.html]
+directory = "htmlcov"
+title = "Coverage Report - Run on {{cookiecutter.date}}"
