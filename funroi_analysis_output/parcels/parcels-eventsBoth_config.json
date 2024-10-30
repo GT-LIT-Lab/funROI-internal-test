@@ -1,0 +1,1 @@
+{"smoothing_kernel_size": [6, 6, 6], "overlap_thr_vox": 0.1, "info": [[["040", "057", "059", "056", "067", "068", "019", "070", "087", "078", "089", "076"], "EventsOrig", ["Sem_photominusPerc_photo", "Sem_sentminusPerc_sent"], "and", "none", 0.05]], "filtering": {"min_voxel_size": 0, "overlap_thr_roi": 0}, "use_spm_smooth": true}

@@ -1,0 +1,3 @@
+group,task,contrasts,conjunction_type,threshold_type,threshold_value,parcels
+0,,,,,,"ParcelConfig(parcels_path='../data/parcels/Events.nii', labels_path='../data/parcels/Events_labels.json')"
+1,,,,,,"ParcelConfig(parcels_path='../data/parcels/Language.nii', labels_path='../data/parcels/Language_labels.json')"

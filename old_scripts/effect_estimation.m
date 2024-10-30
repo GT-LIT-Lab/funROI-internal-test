@@ -4,12 +4,12 @@ today = datestr(now, 'yyyy-mm-dd');
 curr_path = pwd;
 
 % Match all ../data/spm_first_level_results/*_EventsOrig_instrsep_2runs/SPM.mat files
-spmfiles = dir(fullfile(curr_path, '..', 'data', 'spm_first_level_results', '*_EventsOrig_instrsep_2runs', 'SPM.mat'));
+spmfiles = dir(fullfile(curr_path, '..', 'data', 'spm_first_level_results', '087_EventsOrig_instrsep_2runs', 'SPM.mat'));
 spmfiles = strcat({spmfiles.folder}', filesep, {spmfiles.name}');
 eventsorig_spmfiles = cellstr(spmfiles)';
 
 % Match all ../data/spm_first_level_results/*_SWNlocIPS168_3runs/SPM.mat files
-spmfiles = dir(fullfile(curr_path, '..', 'data', 'spm_first_level_results', '*_SWNlocIPS168_3runs', 'SPM.mat'));
+spmfiles = dir(fullfile(curr_path, '..', 'data', 'spm_first_level_results', '087_SWNlocIPS168_3runs', 'SPM.mat'));
 spmfiles = strcat({spmfiles.folder}', filesep, {spmfiles.name}');
 swn_spmfiles = cellstr(spmfiles)';
 
