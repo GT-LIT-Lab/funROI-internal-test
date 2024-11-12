@@ -1,1 +1,0 @@
-{"subjects": ["040", "057", "059", "056", "067", "068", "019", "070", "087", "078", "089", "076"], "froi": ["../data/parcels/Language.nii", "../data/parcels/Language_labels.json"], "effects": [["SWNloc", ["S", "W", "N"]], ["EventsOrig", ["Sem_photo", "Perc_photo", "Sem_sent", "Perc_sent"]]]}

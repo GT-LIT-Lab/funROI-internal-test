@@ -1,0 +1,4 @@
+froi1,froi2,kind,orthogonalization,customized_run1,customized_run2,id
+./data/spm_first_level_results/Events.nii,./data/spm_first_level_results/Language.nii,overlap,all-but-one,,,0
+"FROIConfig(task=EventsOrig, contrasts=['Sem_photominusPerc_photo'], conjunction_type=None, threshold_type=percent, threshold_value=0.1, parcels=ParcelsConfig(parcels_path=data/spm_first_level_results/Events.nii, labels_path=None))","FROIConfig(task=EventsOrig, contrasts=['Sem_sentminusPerc_sent'], conjunction_type=None, threshold_type=percent, threshold_value=0.1, parcels=ParcelsConfig(parcels_path=data/spm_first_level_results/Events.nii, labels_path=None))",overlap,all-but-one,,,1
+./data/spm_first_level_results/Language.nii,"FROIConfig(task=EventsOrig, contrasts=['Sem_sentminusPerc_sent'], conjunction_type=None, threshold_type=percent, threshold_value=0.1, parcels=ParcelsConfig(parcels_path=data/spm_first_level_results/Events.nii, labels_path=None))",overlap,all-but-one,,,2

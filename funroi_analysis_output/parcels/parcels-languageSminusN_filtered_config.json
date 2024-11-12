@@ -1,1 +1,0 @@
-{"smoothing_kernel_size": [6, 6, 6], "overlap_thr_vox": 0.1, "info": [[["040", "057", "059", "056", "067", "068", "019", "070", "087", "078", "089", "076"], "SWNloc", ["S-N"], "and", "none", 0.001]], "filtering": {"min_voxel_size": 100, "overlap_thr_roi": 0.5}, "use_spm_smooth": true}

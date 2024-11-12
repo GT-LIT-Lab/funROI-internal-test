@@ -1,0 +1,3 @@
+The scripts validate funROI on a list of functionalities as compared to
+spm_ss results, including parcels generation, fROI definition and effect 
+estimation, fROI / parcels spatial correlation, and fROI / parcels overlap.

@@ -1,0 +1,3 @@
+task1,effect1,task2,effect2,orthogonalization,froi,customized_run_froi,customized_run1,customized_run2,id
+SWNloc,S,EventsOrig,Sem_sentminusPerc_sent,all-but-one,./data/spm_first_level_results/Language.nii,,,,0
+SWNloc,S,EventsOrig,Sem_sentminusPerc_sent,all-but-one,"FROIConfig(task=SWNloc, contrasts=['S-N'], conjunction_type=None, threshold_type=percent, threshold_value=0.1, parcels=ParcelsConfig(parcels_path=data/spm_first_level_results/Language.nii, labels_path=data/spm_first_level_results/Language.txt))",,,,1

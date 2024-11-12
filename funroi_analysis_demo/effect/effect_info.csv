@@ -1,0 +1,3 @@
+task,effects,fill_na_with_zero,orthogonalization,froi,id
+SWNloc,"['S', 'W', 'N']",True,all-but-one,"FROIConfig(task=SWNloc, contrasts=['S-N'], conjunction_type=None, threshold_type=percent, threshold_value=0.1, parcels=ParcelsConfig(parcels_path=data/spm_first_level_results/Language.nii, labels_path=None))",0
+SWNloc,"['S', 'W', 'N']",True,all-but-one,"FROIConfig(task=SWNloc, contrasts=['S-N'], conjunction_type=None, threshold_type=percent, threshold_value=0.1, parcels=ParcelsConfig(parcels_path=data/spm_first_level_results/Language.nii, labels_path=data/spm_first_level_results/Language.txt))",1

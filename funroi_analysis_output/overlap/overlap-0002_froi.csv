@@ -1,7 +1,0 @@
-group,task,contrasts,conjunction_type,threshold_type,threshold_value,parcels
-0,,,,,,"ParcelConfig(parcels_path='../data/parcels/Events.nii', labels_path='../data/parcels/Events_labels.json')"
-1,,,,,,"ParcelConfig(parcels_path='../data/parcels/Language.nii', labels_path='../data/parcels/Language_labels.json')"
-2,SWNloc,['S-N'],and,percent,0.1,"ParcelConfig(parcels_path='../data/parcels/Language.nii', labels_path='../data/parcels/Language_labels.json')"
-3,EventsOrig,['Sem_sentminusPerc_sent'],and,percent,0.1,"ParcelConfig(parcels_path='../data/parcels/Events.nii', labels_path='../data/parcels/Events_labels.json')"
-4,EventsOrig,['Sem_photominusPerc_photo'],and,percent,0.1,"ParcelConfig(parcels_path='../data/parcels/Events.nii', labels_path='../data/parcels/Events_labels.json')"
-5,EventsOrig,"['Sem_photominusPerc_photo', 'Sem_sentminusPerc_sent']",and,percent,0.1,"ParcelConfig(parcels_path='../data/parcels/Events.nii', labels_path='../data/parcels/Events_labels.json')"
